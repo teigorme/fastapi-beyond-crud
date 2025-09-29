@@ -4,8 +4,11 @@ Uma api feita com Fastapi e Python para consolidar os conceitos de HTTP e API em
 
 ## 🚀 Funcionalidades
 
-- [ ] Crud de Livros completo
+- [ ] CRUD
+- [ ] Conexão com o DB
 - [ ] Autenticação com JWT
+- [ ] Migration com Alembic
+- [ ] Refresh e Revoke tokens JWT
 - [ ] RBAC
 
 ## 🛠️ Tecnologias
