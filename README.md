@@ -4,7 +4,7 @@ Uma api feita com Fastapi e Python para consolidar os conceitos de HTTP e API em
 
 ## 🚀 Funcionalidades
 
-- [ ] CRUD
+- [ ] CRUD Books
 - [ ] Conexão com o DB
 - [ ] Autenticação com JWT
 - [ ] Migration com Alembic
@@ -44,4 +44,4 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 👤 **Autor**
 
 - GitHub: [@teigorme](https://github.com/teigorme)
-- LinkedIn: [Igor Teixeira](https://linkedin.com/in/seu-linkedin)
+- LinkedIn: [Igor Teixeira](https://linkedin.com/in/teigorme)
